@@ -30,14 +30,3 @@ To replicate a scaled-down version of the LipNet architecture to perform **lip r
 
 *Note:* Dataset is not publicly available in this repository due to size and licensing constraints. You'll need to use your own or publicly available alternatives such as GRID dataset.
 
-## 🛠️ Requirements
-- Python ≥ 3.7
-- TensorFlow / Keras
-- NumPy
-- OpenCV
-- scikit-learn
-- matplotlib
-
-Install with:
-```bash
-pip install -r requirements.txt
